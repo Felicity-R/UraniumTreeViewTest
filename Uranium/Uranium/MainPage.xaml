@@ -28,8 +28,8 @@
             <Label Text="Label 3"/>
             <Label Text="Label 4"/>
             <Label Text="Label 5"/>
-        </StackLayout>
         <material:TreeView ItemsSource="{Binding Nodes}"/>
+        </StackLayout>
     </ScrollView>
         
     
